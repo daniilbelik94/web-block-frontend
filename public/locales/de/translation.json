@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "skills": "Skills",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "welcomeMessage": "Willkommen bei Web-Block",
+  "homepageIntro": "Dies ist die Hauptseite. Inhalt wird bald hinzugefügt!",
+  "notFoundTitle": "404 - Seite nicht gefunden",
+  "notFoundText": "Hoppla! Die gesuchte Seite existiert nicht.",
+  "goToHomepage": "Zur Startseite",
+  "hero": {
+    "title": "Web-Lösungen, die Ihr Unternehmen hervorheben",
+    "subtitle": "Moderne Webseiten mit Seele und Funktionalität",
+    "ctaButton": "Projekt anfragen"
+  },
+  "skills": {
+    "title": "Warum mit mir arbeiten?",
+    "expertiseTitle": "EXPERTISE",
+    "expertiseDesc": "Tiefgreifendes Verständnis moderner Webentwicklung (JavaScript, PHP, React, Laravel) und Datenbanken (SQL, NoSQL) für robuste und effektive Lösungen.",
+    "communicationTitle": "KOMMUNIKATION",
+    "communicationDesc": "Ihre Vision steht an erster Stelle. Ich sorge für klaren Dialog, bin stets für Gespräche verfügbar und begrüße Feedback während des gesamten Prozesses.",
+    "designTitle": "DESIGN & NUTZERFOKUS",
+    "designDesc": "Kreative Problemlösung trifft auf nutzerzentriertes Design. Ich konzentriere mich auf intuitive User Experience (UX/UI) und Suchmaschinenoptimierung (SEO) für Ihren Projekterfolg.",
+    "efficiencyTitle": "EFFIZIENTE UMSETZUNG",
+    "efficiencyDesc": "Ich schätze Ihre Zeit. Durch den Einsatz effizienter Frameworks und Praktiken liefere ich hochwertige Ergebnisse zeitnah und halte Ihre Fristen ein."
+  },
+
+  "social": {
+    "title": "Verbinde dich mit mir"
+  },"contact": {
+  "quote": "Ihr Erfolg beginnt mit einer hochwertigen Webseite"
+},
+  "contactForm": {
+    "title": "Schreiben Sie mir",
+    "nameLabel": "Ihr Name",
+    "emailLabel": "Ihre E-Mail",
+    "messageLabel": "Nachricht",
+    "submitButton": "Senden",
+    "success": "Nachricht erfolgreich gesendet!",
+    "error": {
+      "generic": "Fehler beim Senden. Bitte versuchen Sie es später erneut."
+    },
+    "validation": {
+      "nameRequired": "Bitte geben Sie Ihren Namen ein",
+      "emailRequired": "Bitte geben Sie Ihre E-Mail ein",
+      "emailInvalid": "Ungültiges E-Mail-Format",
+      "messageRequired": "Bitte geben Sie Ihre Nachricht ein"
+    }
+  },
+  "projects": {
+    "title": "Meine Projekte",
+    "stack": "Technologien:",
+    "viewButton": "Ansehen"
+  },
+  "legalPages": {
+    "privacyTitle": "Datenschutzerklärung",
+    "imprintTitle": "Impressum",
+    "error": {
+      "fetchFailed": "Fehler beim Laden der Daten",
+      "generic": "Ein Fehler ist aufgetreten",
+      "noContent": "Inhalt nicht verfügbar."
+    }
+
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "follow": "Folge uns",
+    "navigation": "Navigation",
+    "scrollToTop": "Nach oben"
+  }
+}

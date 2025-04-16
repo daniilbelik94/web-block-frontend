@@ -1,0 +1,77 @@
+  {
+    "nav": {
+      "home": "Home",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "welcomeMessage": "Welcome to Web-Block",
+    "homepageIntro": "This is the main page. Content will be added soon!",
+    "notFoundTitle": "404 - Page Not Found",
+    "notFoundText": "Oops! The page you are looking for does not exist.",
+    "goToHomepage": "Go to Homepage",
+    "hero": {
+      "title": "Web Solutions That Make Your Business Stand Out",
+      "subtitle": "Modern Websites with Soul and Functionality",
+      "ctaButton": "Request a Project"
+    },
+    "skills": {
+      "title": "Why Work With Me?",
+      "expertiseTitle": "EXPERTISE",
+      "expertiseDesc": "Deep understanding of modern web development (JavaScript, PHP, React, Laravel) and databases (SQL, NoSQL) to build robust and effective solutions.",
+      "communicationTitle": "COMMUNICATION",
+      "communicationDesc": "Your vision is my priority. I ensure clear dialogue, am always available for discussion, and welcome feedback throughout the process.",
+      "designTitle": "DESIGN & USER FOCUS",
+      "designDesc": "Creative problem-solving meets user-centric design. I focus on intuitive User Experience (UX/UI) and Search Engine Optimization (SEO) to make your project succeed.",
+      "efficiencyTitle": "EFFICIENT DELIVERY",
+      "efficiencyDesc": "I value your time. Leveraging efficient frameworks and practices, I deliver high-quality results promptly, meeting your deadlines."
+    },
+    "social": {
+      "title": "Connect With Me"
+    },
+    "contact": {
+      "quote": "Your success starts with a quality website"
+    },
+    "contactForm": {
+      "title": "Write Me",
+      "nameLabel": "Your Name",
+      "emailLabel": "Your Email",
+      "messageLabel": "Message",
+      "submitButton": "Submit",
+      "success": "Message sent successfully!",
+      "error": {
+        "generic": "Error sending message. Please try again later."
+      },
+      "validation": {
+        "nameRequired": "Please enter your name",
+        "emailRequired": "Please enter your email",
+        "emailInvalid": "Invalid email format",
+        "messageRequired": "Please enter your message"
+      }
+    },
+    "projects": {
+      "title": "My Projects",
+      "stack": "Technologies:",
+      "viewButton": "View Project"
+    },
+    "legalPages": {
+      "privacyTitle": "Privacy Policy",
+      "imprintTitle": "Imprint",
+      "error": {
+        "fetchFailed": "Error loading data",
+        "generic": "An error occurred",
+        "noContent": "Content not available."
+      }
+    },
+    "footer": {
+      "rights": "All rights reserved.",
+      "legal": "Legal",
+      "privacy": "Privacy Policy",
+      "imprint": "Imprint",
+      "follow": "Follow Us",
+      "navigation": "Navigation",
+      "scrollToTop": "Scroll to top"
+    }
+  }
+
+
